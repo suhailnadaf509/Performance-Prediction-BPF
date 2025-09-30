@@ -1,0 +1,22 @@
+Features used in model:
+1. Passband F1 (MHz)
+2. Passband F2 (MHz)
+3. frequency_hz
+4. f_center
+5. BW
+6. frac_BW
+7. Q_approx
+8. log_f_center
+9. Stopband F3 (MHz)
+10. Stopband F4 (MHz)
+11. Rejection @ F3 (dB)
+12. Rejection @ F4 (dB)
+13. stop_offset1
+14. stop_offset2
+15. slope1
+16. slope2
+17. min_rejection
+18. max_rejection
+19. rej_diff
+20. F3_norm
+21. z0_ohm
